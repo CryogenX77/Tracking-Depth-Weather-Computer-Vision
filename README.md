@@ -6,12 +6,6 @@
 
 This repository contains the core software for an autonomous targeting turret. The application uses computer vision to detect and track assigned targets in real-time, calculates a gravity-compensated aiming solution using monocular depth estimation, and generates precise commands for a 2-axis servo mechanism.
 
-## 📸 Demo
-
-![Demo GIF of the turret tracking a target]
-*A live demonstration of the physical turret tracking a target, with the green crosshair automatically adjusting the aim point based on the target's distance.*
-
----
 
 ## 🎯 Project Overview
 
